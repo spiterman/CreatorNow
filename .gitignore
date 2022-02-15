@@ -1,3 +1,17 @@
+# In Progress Project Files
+IndexLogin.html
+data
+Circle.html
+dictionary.sql
+mydatabase
+package-lock.json
+wordList.csv
+app.js
+
+
+# Other Files
+.DS_Store
+
 # Logs
 logs
 *.log
